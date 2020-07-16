@@ -1,0 +1,51 @@
+body {
+    overflow: auto;
+}
+
+#container {
+    padding: 25px 25px;
+    background-color: salmon;
+    margin-left: 20%;
+    margin-right: 16%;
+    border: 2px solid black;
+}
+
+h1 {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+#subheading p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+}
+p {
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+.title {
+    font-weight: bold;
+    
+}
+h5 {
+    font-weight: bold;
+    color: white;
+    font-size: 16px;
+}
+li {
+    font-size: 16px;
+    color: blue;
+}
+
+
+.whole {
+    width: 100%;
+}
+.list {
+    list-style-type: upper-alpha;
+}
+.lis {
+    list-style-type: upper-roman;
+}
